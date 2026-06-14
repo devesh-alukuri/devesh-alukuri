@@ -76,7 +76,6 @@
 
 ## 🏅 Certifications
 
-- ☁️ AWS Certified Solutions Architect – Associate
 - 🔷 Microsoft Certified: Azure Fundamentals
 - ☕ Oracle Certified Professional: Java SE 11 Developer
 - 🐍 Certified Python Programmer
