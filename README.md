@@ -1,6 +1,6 @@
 ## Welcome to My Digital Workspace 🖥️ 👋
 
-<h1 align="center">Hi, I'm Devesh Alukuri 👋</h1>
+<h1 align="center">Hi, I'm Devesh Alukuri</h1>
 
 <p align="center">
   <b>Software Developer · Backend & Cloud · Java | Spring Boot | AWS | Microservices</b><br/>
